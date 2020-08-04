@@ -2,20 +2,13 @@ modLoader="javafml"
 loaderVersion="[31,)"
 issueTrackerURL="https://github.com/Wurmatron/Viral/issues"
 [[mods]]
-modId="viral" #mandatory
-version="${file.jarVersion}"
+modId="viral"
+version="0.0.1"
 displayName="Viral"
 updateJSONURL="https://raw.githubusercontent.com/Wurmatron/Viral/1.15/update.json"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/viral"
 logoFile="logo.png"
 credits=""
-authors="Wurmatron"
+authors="Wurmatron, TryAngle"
 description='''
 '''
-# Here's another dependency
-#[[dependencies.examplemod]]
-#    modId="minecraft"
-#    mandatory=true
-#    versionRange="[1.15.2]"
-#    ordering="NONE"
-#    side="BOTH"
